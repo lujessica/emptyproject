@@ -1,4 +1,4 @@
-<h2>The #emptyproject Repo</h2>
+<h2>The #emptyproject Repository</h2>
 <h4>Created and maintained by <a href="mailto:jhl.jessica@gmail.com">Jessica H. Lu</a>, Ph.D., University of Maryland</h4>
 
 <p>This repository has been created to assist and support researchers, scholars, and community members to learn how to encode text-based, primary source materials in pursuit of "<a href="https://aadhum.umd.edu/conference/" target="new">intentionally digital, intentionally Black</a>" projects. You are invited to use this skeleton repository as a basis from which you can develop and grow your own <a href="http://tei-c.org" target="new">TEI</a> work.</p>
